@@ -1,0 +1,30 @@
+C:\Users\GAURAV SAINDANE\source\repos\desktop admin panel\desktop admin panel\obj\Debug\desktop admin panel.csproj.AssemblyReference.cache
+C:\Users\GAURAV SAINDANE\source\repos\desktop admin panel\desktop admin panel\obj\Debug\desktop admin panel.csproj.SuggestedBindingRedirects.cache
+C:\Users\GAURAV SAINDANE\source\repos\desktop admin panel\desktop admin panel\obj\Debug\User Controls\InfoCard.baml
+C:\Users\GAURAV SAINDANE\source\repos\desktop admin panel\desktop admin panel\obj\Debug\App.baml
+C:\Users\GAURAV SAINDANE\source\repos\desktop admin panel\desktop admin panel\obj\Debug\MainWindow.g.cs
+C:\Users\GAURAV SAINDANE\source\repos\desktop admin panel\desktop admin panel\obj\Debug\User Controls\InfoCard.g.cs
+C:\Users\GAURAV SAINDANE\source\repos\desktop admin panel\desktop admin panel\obj\Debug\App.g.cs
+C:\Users\GAURAV SAINDANE\source\repos\desktop admin panel\desktop admin panel\obj\Debug\desktop admin panel_MarkupCompile.cache
+C:\Users\GAURAV SAINDANE\source\repos\desktop admin panel\desktop admin panel\obj\Debug\desktop admin panel_MarkupCompile.lref
+C:\Users\GAURAV SAINDANE\source\repos\desktop admin panel\desktop admin panel\bin\Debug\desktop admin panel.exe.config
+C:\Users\GAURAV SAINDANE\source\repos\desktop admin panel\desktop admin panel\bin\Debug\desktop admin panel.exe
+C:\Users\GAURAV SAINDANE\source\repos\desktop admin panel\desktop admin panel\bin\Debug\desktop admin panel.pdb
+C:\Users\GAURAV SAINDANE\source\repos\desktop admin panel\desktop admin panel\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\GAURAV SAINDANE\source\repos\desktop admin panel\desktop admin panel\obj\Debug\MainWindow.baml
+C:\Users\GAURAV SAINDANE\source\repos\desktop admin panel\desktop admin panel\obj\Debug\desktop admin panel.g.resources
+C:\Users\GAURAV SAINDANE\source\repos\desktop admin panel\desktop admin panel\obj\Debug\desktop_admin_panel.Properties.Resources.resources
+C:\Users\GAURAV SAINDANE\source\repos\desktop admin panel\desktop admin panel\obj\Debug\desktop admin panel.csproj.GenerateResource.cache
+C:\Users\GAURAV SAINDANE\source\repos\desktop admin panel\desktop admin panel\obj\Debug\desktop admin panel.csproj.CoreCompileInputs.cache
+C:\Users\GAURAV SAINDANE\source\repos\desktop admin panel\desktop admin panel\obj\Debug\desktop admin panel.csproj.CopyComplete
+C:\Users\GAURAV SAINDANE\source\repos\desktop admin panel\desktop admin panel\obj\Debug\desktop admin panel.exe
+C:\Users\GAURAV SAINDANE\source\repos\desktop admin panel\desktop admin panel\obj\Debug\desktop admin panel.pdb
+C:\Users\GAURAV SAINDANE\source\repos\desktop admin panel\desktop admin panel\obj\Debug\User Controls\Order.baml
+C:\Users\GAURAV SAINDANE\source\repos\desktop admin panel\desktop admin panel\obj\Debug\User Controls\Order.g.cs
+C:\Users\GAURAV SAINDANE\source\repos\desktop admin panel\desktop admin panel\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\GAURAV SAINDANE\source\repos\desktop admin panel\desktop admin panel\bin\Debug\LiveCharts.dll
+C:\Users\GAURAV SAINDANE\source\repos\desktop admin panel\desktop admin panel\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\GAURAV SAINDANE\source\repos\desktop admin panel\desktop admin panel\bin\Debug\LiveCharts.pdb
+C:\Users\GAURAV SAINDANE\source\repos\desktop admin panel\desktop admin panel\bin\Debug\LiveCharts.xml
+C:\Users\GAURAV SAINDANE\source\repos\desktop admin panel\desktop admin panel\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\GAURAV SAINDANE\source\repos\desktop admin panel\desktop admin panel\bin\Debug\LiveCharts.Wpf.xml
